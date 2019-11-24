@@ -5,8 +5,8 @@
 Ouvre un Terminal
 
 ```
-git clone
-cd novaclean https://github.com/krolhm/novaclean.git
+git clone https://github.com/krolhm/novaclean.git
+cd novaclean
 sh novaclean.sh
 ```
 
