@@ -1,6 +1,6 @@
 # NovaClean
 
-<img src="images/exemple.png" alt="Exemple" width="80" height="80">
+<img src="exemple.png" alt="Exemple">
 
 Ouvre un Terminal
 
